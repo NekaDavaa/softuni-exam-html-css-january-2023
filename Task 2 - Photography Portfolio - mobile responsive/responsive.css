@@ -1,0 +1,59 @@
+@media only screen and (max-width: 600px) {
+    .navigation-nav {
+        display: none;
+    }
+    .home-text {
+        display: none;
+    }
+  
+
+.home-tab-selector-cards-container {
+    
+    grid-template-columns: unset;
+  
+}
+
+.home-image-container {
+    display: none;
+}
+
+.home-top-part {
+    flex-direction: column;
+}
+.home-links-container {
+    flex-direction: column;
+}
+.home-subscribe-container {
+    flex-direction: column;
+}
+
+.home-container1 {
+    margin-left: -145px;
+}
+
+.home-navigate-container {
+    margin-top:31px;
+}
+
+.home-contact-container {
+    margin-top:31px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
